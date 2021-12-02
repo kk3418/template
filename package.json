@@ -3,7 +3,7 @@
   "browserslist": "last 5 versions, not dead",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
+    "build": "parcel build --no-source-maps --target --dist-dir public --public-url assets"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.0",
