@@ -1,0 +1,7 @@
+node_modules/
+.parcel-cache/
+
+/* dev */
+dist/
+/* buidl */
+public/
