@@ -1,8 +1,4 @@
-# Package.json
-
-Created: December 1, 2021 11:58 PM
-Last edited: December 2, 2021 11:32 PM
-Tags: config
+## Package.json set up
 
 ### Install
 
